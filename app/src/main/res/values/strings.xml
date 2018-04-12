@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="add_but">ADD</string>
+    <string name="ntitle">New Title:</string>
+    <string name="ncode">New IMDB Code:</string>
+    <string name="dtitle">Are You Sure?</string>
+</resources>
